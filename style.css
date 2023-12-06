@@ -5,8 +5,8 @@
 }
 :root {
   --text-color: white;
-  --bg-image: url(../assets/night.png);
-  --switch-image: url(../assets/moon-stars.svg);
+  --bg-image: url(./assets/night.png);
+  --switch-image: url(./assets/moon-stars.svg);
   --border-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --surface-color-houver: rgba(255, 255, 255, 0.05);
@@ -14,8 +14,8 @@
 }
 .light {
   --text-color: black;
-  --bg-image: url(../assets/morning.png);
-  --switch-image: url(../assets/sun.svg);
+  --bg-image: url(./assets/morning.png);
+  --switch-image: url(./assets/sun.svg);
   --border-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.1);
   --surface-color-houver: rgba(0, 0, 0, 0.05);
