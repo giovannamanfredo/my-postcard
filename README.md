@@ -23,15 +23,9 @@ This project was developed with the following technologies:
 This project is under MIT license. See the [LICENSE](LICENSE.md) file for more details.
 
 ---
-
 <br>
 
 ## Certificate
 
-<object data="./assets/certificate.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./assets/certificate.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/certificate.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
+<img src="./assets/certificate.png"/>
 <!--START_SECTION:footer-->
